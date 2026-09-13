@@ -338,6 +338,6 @@ There are several directions in which the project could be extended:
 
 ## Author
 
-**Sai Satyam Biswal**
+**Adarsh Kumar Jha**
 
 Data Analytics | Python | Data Visualization | Streamlit
